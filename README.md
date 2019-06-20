@@ -1,3 +1,17 @@
+## Challenge Done
+
+open index.html from app/build directory or start webpack-dev-server:
+```sh
+npm install
+npm run develop
+```
+
+
+run json-server as well
+```sh
+npm run start
+```
+
 # Adapt React Coding Challenge
 
 Seems like you're trying out for a position at
