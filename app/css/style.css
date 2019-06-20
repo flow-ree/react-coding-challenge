@@ -1,0 +1,22 @@
+.margin-button-right {
+    right: 10px;
+}
+.margin-button-left {
+    left: 10px;
+}
+
+.book-list-collapse{
+    background-color: aliceblue;
+}
+
+.save-button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.delete-button {
+    position: absolute;
+    bottom: 0;
+    right: 70px;
+}
